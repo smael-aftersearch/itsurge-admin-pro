@@ -4,7 +4,7 @@
 
 **ITSurge Admin Pro** is a premium bilingual admin dashboard template with English LTR and Persian RTL layouts. It is built with plain HTML, CSS, and JavaScript and is suitable for SaaS dashboards, CRM panels, ERP panels, e-commerce back offices, internal portals, and reporting dashboards.
 
-[Persian README](./README-FARSI.md)
+[Persian README](./FA.md)
 
 ## Features
 
@@ -15,6 +15,10 @@
 - Add, edit, view, and delete modals
 - Toast notifications and table search
 - Component library for buttons, forms, tables, modals, tabs, dropdowns, selects, datepicker, charts, typography, and notifications
+
+## Keywords
+
+admin-dashboard, admin-template, dashboard-template, html-css-js, ui-kit, rtl-dashboard, persian-dashboard, saas-dashboard, crm-dashboard, admin-panel, responsive-template
 
 ## Run locally
 
