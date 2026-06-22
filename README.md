@@ -39,6 +39,10 @@ Then open `http://localhost:8080`.
 | To-Do | `todo.html` | `todo-fa.html` |
 | Chat | `chat.html` | `chat-fa.html` |
 
+## Demo setup
+
+Publish this repository with GitHub Pages from branch `main` and folder `/root`.
+
 ## License
 
 MIT
