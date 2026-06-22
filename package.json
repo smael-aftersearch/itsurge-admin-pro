@@ -1,0 +1,21 @@
+{
+  "name": "itsurge-admin-pro",
+  "version": "1.0.0",
+  "description": "Premium bilingual HTML/CSS/JS admin dashboard template with Persian RTL and English LTR layouts.",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "serve": "python -m http.server 8080"
+  },
+  "keywords": [
+    "admin-dashboard",
+    "admin-template",
+    "rtl",
+    "persian",
+    "html",
+    "css",
+    "javascript",
+    "dashboard-template"
+  ]
+}

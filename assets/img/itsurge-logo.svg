@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">ITSurge Admin Pro logo</title>
+  <desc id="desc">A premium abstract surge mark with connected technology nodes.</desc>
+  <defs>
+    <linearGradient id="itsurgeMarkGradient" x1="10" x2="54" y1="8" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset=".52" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="itsurgeGlow" x="-25%" y="-25%" width="150%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#2563eb" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="18" fill="url(#itsurgeMarkGradient)" filter="url(#itsurgeGlow)"/>
+  <path d="M18 39.5 28.2 29l7 6.8L46.5 22" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="18" cy="39.5" r="3.2" fill="#fff"/>
+  <circle cx="28.2" cy="29" r="3.2" fill="#fff"/>
+  <circle cx="35.2" cy="35.8" r="3.2" fill="#fff"/>
+  <circle cx="46.5" cy="22" r="3.2" fill="#fff"/>
+</svg>
