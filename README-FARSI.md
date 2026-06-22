@@ -1,3 +1,3 @@
-# ITSurge Admin Pro Persian
+# ITSurge Admin Pro
 
-Coming soon.
+Persian documentation for ITSurge Admin Pro.
