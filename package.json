@@ -4,6 +4,7 @@
   "description": "Premium bilingual HTML/CSS/JS admin dashboard template with Persian RTL and English LTR layouts.",
   "private": false,
   "license": "MIT",
+  "homepage": "https://smael-aftersearch.github.io/itsurge-admin-pro/index.html",
   "scripts": {
     "start": "python -m http.server 8080",
     "serve": "python -m http.server 8080"
@@ -11,11 +12,15 @@
   "keywords": [
     "admin-dashboard",
     "admin-template",
-    "rtl",
-    "persian",
-    "html",
-    "css",
-    "javascript",
-    "dashboard-template"
+    "dashboard-template",
+    "html-css-js",
+    "ui-kit",
+    "rtl-dashboard",
+    "persian-dashboard",
+    "saas-dashboard",
+    "crm-dashboard",
+    "admin-panel",
+    "responsive-template",
+    "frontend-template"
   ]
 }
