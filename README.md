@@ -2,7 +2,7 @@
 
 **ITSurge Admin Pro** is a premium, responsive, bilingual admin dashboard template designed for modern web applications. It includes polished English LTR and Persian RTL layouts, production-style pages, reusable UI components, and interactive demo behaviors using plain HTML, CSS, and JavaScript.
 
-[Persian README](./README.fa.md)
+[Persian README](./README-FARSI.md)
 
 ---
 
@@ -151,7 +151,7 @@ itsurge-admin-pro/
 ├── chat.html
 ├── chat-fa.html
 ├── README.md
-├── README.fa.md
+├── README-FARSI.md
 └── LICENSE
 ```
 
